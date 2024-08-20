@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <p align="left" dir="auto">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shoaib-akhtar-.-akhtar-3828a2194/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/awais-khan-772983245/" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/awais-khan-772983245/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/awais-khan-772983245/" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
 
@@ -27,7 +27,5 @@ Here are some ideas to get you started:
 <h3 class="heading-element" dir="auto">📊 GitHub Stats:</h3>
 <img align="left" src="https://camo.githubusercontent.com/d92022e3bb1969d762ce6ddfb93695f1e341e329cfb56b88eb179dbbe5e04c97/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d73686f616962616b6874617235372673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="wasihDev" data-canonical-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=wasihDev&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
 
-
-<img align="center" src="https://camo.githubusercontent.com/3891a7a5a649af26451e31c8247626626bb3f04530c21341e249ff3c212b332b/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170693f757365726e616d653d73686f616962616b6874617235372673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="wasihDev" data-canonical-src="https://github-readme-stats-sigma-five.vercel.app/api?username=wasihDev&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
 
 <img align="center" src="https://camo.githubusercontent.com/f4cbb127e193fccaa346b5c77446441b78bff324112321963b49bb3a8d25f6b5/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73686f616962616b68746172353726" alt="wasihDev" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=wasihDev&amp;" style="max-width: 100%;">
